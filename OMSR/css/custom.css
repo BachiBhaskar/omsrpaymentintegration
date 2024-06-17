@@ -1,0 +1,93 @@
+.btn-custom {
+    width: 210px;
+    margin: 10px 0;
+}
+.card-custom {
+    padding: 20px;
+}
+.card-custom label {
+    font-size: 14px;
+}
+.text-right {
+    text-align: right;
+    margin-bottom: 54px;
+}
+.custom-header{
+    font-size: 16px;
+    text-align: left;
+}
+.list-group-flush>.list-group-item {
+    border-width: 0 !important;
+    font-size: 14px;
+    text-align: left;
+}
+.card-inside-services {
+    padding: 15px;
+}
+.card-inside-services .card {
+    margin: 0 0 10px;
+}
+.login-sub-heading {
+    font-size: 13px;
+    color: grey;
+    padding: 8px 0px;
+    font-weight: 300;
+}
+i.fa.fa-long-arrow-right {
+    font-size: 11px;
+    color: #b8b8b8;
+}
+.card-online-services {
+    text-align: left;
+    font-size: 14px;
+    padding: 25px;
+}
+card-online-services, i {
+    padding-right: 15px;
+}
+.card-online-services .address{
+    line-height: 2;
+    margin-left: 32px !important;
+}
+i.fa.fa-map-marker {
+    position: absolute;
+    top: 150px;
+}
+.email_link {
+    color: #0d6efd;
+}
+.card.card-online-services ul.list-group li.list-group-item {
+    border-width: 0;
+}
+nav#navbar-example2 {
+    background: #fff !important;
+    box-shadow: 2px 2px 2px #dadada;
+}
+.service-item {
+    margin-bottom: 15px;
+  }
+  .service-item img {
+    width: 60px;
+    height: 60px;
+    margin-right: 10px;
+    border-radius: 50%;
+    border: 1px solid #faf7f7;
+    padding: 5px;
+  }
+  .contact-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+  }
+  .contact-item img {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+  }
+  a.email_link2 {
+    display: inline-block;
+    margin-left: 20px;
+}
+.aboutUs_para {
+    line-height: 2;
+}
